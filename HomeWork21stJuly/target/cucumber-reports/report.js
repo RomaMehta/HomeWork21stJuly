@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6187451387,
+  "duration": 7142392807,
   "status": "passed"
 });
 formatter.scenario({
@@ -48,32 +48,37 @@ formatter.match({
   "location": "MyStepDefs.user_is_on_login_page()"
 });
 formatter.result({
-  "duration": 158045081,
+  "duration": 109506180,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_enters_valid_username_and_password()"
 });
 formatter.result({
-  "duration": 1853142977,
+  "duration": 307405784,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_clicks_on_log_in_button()"
 });
 formatter.result({
-  "duration": 2489430822,
+  "duration": 2052405356,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_should_be_logged_in_and_able_to_see_welcome_message()"
 });
 formatter.result({
-  "duration": 722321374,
+  "duration": 64291014,
+  "error_message": "java.lang.AssertionError: expected [true] but found [false]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertTrue(Assert.java:44)\r\n\tat org.testng.Assert.assertTrue(Assert.java:54)\r\n\tat TrialCucumber.DashboardPage.toVerifySuccessfullLogin(DashboardPage.java:12)\r\n\tat TrialCucumber.MyStepDefs.user_should_be_logged_in_and_able_to_see_welcome_message(MyStepDefs.java:31)\r\n\tat ✽.Then user should be logged in and able to see welcome message.(src/test/Resources/TrialCucumber/OrangeHRMLogin.feature:8)\r\n",
+  "status": "failed"
+});
+formatter.after({
+  "duration": 1918810419,
   "status": "passed"
 });
 formatter.after({
-  "duration": 556247278,
+  "duration": 785454415,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -192,7 +197,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2748234133,
+  "duration": 5982655566,
   "status": "passed"
 });
 formatter.scenario({
@@ -240,7 +245,7 @@ formatter.match({
   "location": "MyStepDefs.user_is_on_log_in_page()"
 });
 formatter.result({
-  "duration": 34133,
+  "duration": 61440,
   "status": "passed"
 });
 formatter.match({
@@ -257,14 +262,14 @@ formatter.match({
   "location": "MyStepDefs.user_enters_username_as_and(String,String)"
 });
 formatter.result({
-  "duration": 1714810758,
+  "duration": 353059564,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_clicks_on_log_in_button()"
 });
 formatter.result({
-  "duration": 867610823,
+  "duration": 503911469,
   "status": "passed"
 });
 formatter.match({
@@ -277,15 +282,19 @@ formatter.match({
   "location": "MyStepDefs.user_should_not_be_logged_in_with(String)"
 });
 formatter.result({
-  "duration": 236480955,
+  "duration": 69705843,
   "status": "passed"
 });
 formatter.after({
-  "duration": 599184895,
+  "duration": 26027,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 799778474,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2442712935,
+  "duration": 5336428944,
   "status": "passed"
 });
 formatter.scenario({
@@ -333,7 +342,7 @@ formatter.match({
   "location": "MyStepDefs.user_is_on_log_in_page()"
 });
 formatter.result({
-  "duration": 44374,
+  "duration": 43946,
   "status": "passed"
 });
 formatter.match({
@@ -350,14 +359,14 @@ formatter.match({
   "location": "MyStepDefs.user_enters_username_as_and(String,String)"
 });
 formatter.result({
-  "duration": 1693847763,
+  "duration": 320853471,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_clicks_on_log_in_button()"
 });
 formatter.result({
-  "duration": 740882236,
+  "duration": 439573520,
   "status": "passed"
 });
 formatter.match({
@@ -370,15 +379,19 @@ formatter.match({
   "location": "MyStepDefs.user_should_not_be_logged_in_with(String)"
 });
 formatter.result({
-  "duration": 224429323,
+  "duration": 58865945,
   "status": "passed"
 });
 formatter.after({
-  "duration": 549005888,
+  "duration": 25173,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 780522573,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2429741836,
+  "duration": 6015037020,
   "status": "passed"
 });
 formatter.scenario({
@@ -426,7 +439,7 @@ formatter.match({
   "location": "MyStepDefs.user_is_on_log_in_page()"
 });
 formatter.result({
-  "duration": 41387,
+  "duration": 55893,
   "status": "passed"
 });
 formatter.match({
@@ -443,14 +456,14 @@ formatter.match({
   "location": "MyStepDefs.user_enters_username_as_and(String,String)"
 });
 formatter.result({
-  "duration": 1693386963,
+  "duration": 336357690,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_clicks_on_log_in_button()"
 });
 formatter.result({
-  "duration": 1029512120,
+  "duration": 745293118,
   "status": "passed"
 });
 formatter.match({
@@ -463,15 +476,19 @@ formatter.match({
   "location": "MyStepDefs.user_should_not_be_logged_in_with(String)"
 });
 formatter.result({
-  "duration": 221158921,
+  "duration": 65294961,
   "status": "passed"
 });
 formatter.after({
-  "duration": 547462207,
+  "duration": 20480,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 797666474,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2397900116,
+  "duration": 5351795350,
   "status": "passed"
 });
 formatter.scenario({
@@ -519,7 +536,7 @@ formatter.match({
   "location": "MyStepDefs.user_is_on_log_in_page()"
 });
 formatter.result({
-  "duration": 47787,
+  "duration": 69121,
   "status": "passed"
 });
 formatter.match({
@@ -536,14 +553,14 @@ formatter.match({
   "location": "MyStepDefs.user_enters_username_as_and(String,String)"
 });
 formatter.result({
-  "duration": 1714874758,
+  "duration": 318404830,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_clicks_on_log_in_button()"
 });
 formatter.result({
-  "duration": 510402351,
+  "duration": 96115241,
   "status": "passed"
 });
 formatter.match({
@@ -556,15 +573,19 @@ formatter.match({
   "location": "MyStepDefs.user_should_not_be_logged_in_with(String)"
 });
 formatter.result({
-  "duration": 223672415,
+  "duration": 56291438,
   "status": "passed"
 });
 formatter.after({
-  "duration": 595594067,
+  "duration": 35840,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 763389765,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2476576630,
+  "duration": 5796359166,
   "status": "passed"
 });
 formatter.scenario({
@@ -612,7 +633,7 @@ formatter.match({
   "location": "MyStepDefs.user_is_on_log_in_page()"
 });
 formatter.result({
-  "duration": 50347,
+  "duration": 180480,
   "status": "passed"
 });
 formatter.match({
@@ -629,14 +650,14 @@ formatter.match({
   "location": "MyStepDefs.user_enters_username_as_and(String,String)"
 });
 formatter.result({
-  "duration": 2153761346,
+  "duration": 301032661,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_clicks_on_log_in_button()"
 });
 formatter.result({
-  "duration": 601086977,
+  "duration": 100572629,
   "status": "passed"
 });
 formatter.match({
@@ -649,15 +670,19 @@ formatter.match({
   "location": "MyStepDefs.user_should_not_be_logged_in_with(String)"
 });
 formatter.result({
-  "duration": 260144751,
+  "duration": 53329943,
   "status": "passed"
 });
 formatter.after({
-  "duration": 548655168,
+  "duration": 23894,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 771812169,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2448229738,
+  "duration": 6459176302,
   "status": "passed"
 });
 formatter.scenario({
@@ -705,7 +730,7 @@ formatter.match({
   "location": "MyStepDefs.user_is_on_log_in_page()"
 });
 formatter.result({
-  "duration": 41386,
+  "duration": 51626,
   "status": "passed"
 });
 formatter.match({
@@ -722,14 +747,14 @@ formatter.match({
   "location": "MyStepDefs.user_enters_username_as_and(String,String)"
 });
 formatter.result({
-  "duration": 1616164103,
+  "duration": 294609192,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_clicks_on_log_in_button()"
 });
 formatter.result({
-  "duration": 485299407,
+  "duration": 111916421,
   "status": "passed"
 });
 formatter.match({
@@ -742,15 +767,19 @@ formatter.match({
   "location": "MyStepDefs.user_should_not_be_logged_in_with(String)"
 });
 formatter.result({
-  "duration": 204067074,
+  "duration": 60734319,
   "status": "passed"
 });
 formatter.after({
-  "duration": 542995005,
+  "duration": 19200,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 818046643,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2446881471,
+  "duration": 5948910485,
   "status": "passed"
 });
 formatter.scenario({
@@ -798,7 +827,7 @@ formatter.match({
   "location": "MyStepDefs.user_is_on_log_in_page()"
 });
 formatter.result({
-  "duration": 40960,
+  "duration": 42240,
   "status": "passed"
 });
 formatter.match({
@@ -815,14 +844,14 @@ formatter.match({
   "location": "MyStepDefs.user_enters_username_as_and(String,String)"
 });
 formatter.result({
-  "duration": 1663515590,
+  "duration": 299015807,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepDefs.user_clicks_on_log_in_button()"
 });
 formatter.result({
-  "duration": 488453755,
+  "duration": 122484532,
   "status": "passed"
 });
 formatter.match({
@@ -835,11 +864,15 @@ formatter.match({
   "location": "MyStepDefs.user_should_not_be_logged_in_with(String)"
 });
 formatter.result({
-  "duration": 206603181,
+  "duration": 59409519,
   "status": "passed"
 });
 formatter.after({
-  "duration": 546011113,
+  "duration": 20053,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 809019225,
   "status": "passed"
 });
 });

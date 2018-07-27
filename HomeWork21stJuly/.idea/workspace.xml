@@ -27,25 +27,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TrialCucumber/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+            <state relative-caret-position="469">
+              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#966#967#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#904#905#0" expanded="true" />
+                <element signature="e#931#932#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RunnerClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TrialCucumber/RunnerClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="470">
+              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TrialCucumber/DashboardPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDataConfig.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/TestDataConfig.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -63,16 +96,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/TrialCucumber/BasePage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/TrialCucumber/Utils.java" />
         <option value="$PROJECT_DIR$/src/main/java/TrialCucumber/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TrialCucumber/DashboardPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/TrialCucumber/RunnerClass.java" />
         <option value="$PROJECT_DIR$/src/test/Resources/TrialCucumber/OrangeHRMLogin.feature" />
         <option value="$PROJECT_DIR$/src/test/java/TrialCucumber/MyStepDefs.java" />
         <option value="$PROJECT_DIR$/src/main/java/TrialCucumber/LoadProp.java" />
-        <option value="$PROJECT_DIR$/src/test/Resources/TestData/TestDataConfig.properties" />
         <option value="$PROJECT_DIR$/src/main/java/TrialCucumber/BrowserSetup.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/TrialCucumber/DashboardPage.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/TestData/TestDataConfig.properties" />
         <option value="$PROJECT_DIR$/src/test/java/TrialCucumber/Hooks.java" />
       </list>
     </option>
@@ -84,9 +117,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="628" />
-    <option name="width" value="737" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="width" value="726" />
     <option name="height" value="786" />
   </component>
   <component name="ProjectView">
@@ -155,6 +188,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork21stJuly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork21stJuly" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeWork21stJuly" type="b2602c69:ProjectViewProjectNode" />
@@ -275,12 +316,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunnerClass - 2018.07.22 at 16h 39m 51s.xml">
-      <configuration name="RunnerClass" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunnerClass - 2018.07.22 at 16h 42m 02s.xml">
-      <configuration name="RunnerClass" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunnerClass - 2018.07.22 at 16h 52m 04s.xml">
       <configuration name="RunnerClass" configurationId="JUnit" />
     </history-entry>
@@ -305,9 +340,15 @@
     <history-entry file="RunnerClass - 2018.07.27 at 02h 23m 37s.xml">
       <configuration name="RunnerClass" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunnerClass - 2018.07.27 at 02h 58m 12s.xml">
+      <configuration name="RunnerClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerClass - 2018.07.27 at 03h 59m 38s.xml">
+      <configuration name="RunnerClass" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="628" y="0" width="737" height="786" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -323,7 +364,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22607489" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1193265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -456,8 +497,8 @@
           <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -546,8 +587,8 @@
           <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -556,16 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TrialCucumber/DashboardPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -612,16 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TrialCucumber/RunnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TrialCucumber/MyStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -649,13 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/TestDataConfig.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TrialCucumber/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -668,22 +682,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TrialCucumber/Hooks.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        <state relative-caret-position="470">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TrialCucumber/DashboardPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/TestDataConfig.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Screenshots/1532660325487.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TrialCucumber/RunnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TrialCucumber/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
